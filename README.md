@@ -7,4 +7,4 @@ Recieves the number of Ticks as input from FPGA. </br>
 Computes the appropriate PWM Value using Fuzzy Logic in STM.</br>
 Transmits the computed PWM to FPGA which in turn drives the Motor.</br>
 
-//test  
+//test  create new branch
